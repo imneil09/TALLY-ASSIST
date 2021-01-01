@@ -81,7 +81,7 @@ We would also like to thank
 [**Richa Verma**](https://github.com/RichaVerma/),
 [**Akash Tandon**](https://github.com/analyticalmonk)
 
-for all his help. 
+for all their help. 
 
 ## 🔖 LICENCE
 
