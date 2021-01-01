@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464258753984",
+    "firebase_url": "https://tallyassist-bb516-default-rtdb.firebaseio.com",
+    "project_id": "tallyassist-bb516",
+    "storage_bucket": "tallyassist-bb516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464258753984:android:f3581feed816a35cec5425",
+        "android_client_info": {
+          "package_name": "com.example.tally_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464258753984-adaoupt173i2ml53gc26gnpemf6256i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltxe_xwX-hL3DmOERBMw5oX41pdPTV7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464258753984-adaoupt173i2ml53gc26gnpemf6256i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
